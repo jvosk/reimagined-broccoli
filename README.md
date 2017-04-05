@@ -16,5 +16,8 @@ A way to keep track of what's been done to set up various devices I've come in c
 
 ### Steps taken:
 1) Install Ubuntu Server v16.10 on hardware (make bootable USB with Startup Disk Creator, during install process use guided partitioning, install to 500GB drive less 4GB swap, `uname` and `pwd` are name of person who installed)
-1) Make `ssh` directory in home and change permissions: `mkdir ~/.ssh & chmod 700 ~/.ssh`
-1) Generate ssh key: `ssh-keygen -t rsa` (blank password)
+2) Install SSH and OpenSSH (see install instructions)
+   > To change the SSH configuration, `sudo nano /etc/ssh/sshd_config` and edit the config file as necessary
+3) Backup default SSH config file: `sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.bak` and `sudo chmod a-w /etc/ssh/sshd_config.`
+4) Make `ssh` directory in home and change permissions: `mkdir ~/.ssh & chmod 700 ~/.ssh`
+5) Generate ssh key: `ssh-keygen -t rsa` (blank password)
