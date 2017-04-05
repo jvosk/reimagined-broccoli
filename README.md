@@ -24,5 +24,6 @@ A way to keep track of what's been done to set up various devices I've come in c
 3) Backup default SSH config file: `sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.bak` and `sudo chmod a-w /etc/ssh/sshd_config.`
 4) Make `ssh` directory in home and change permissions: `mkdir ~/.ssh & chmod 700 ~/.ssh`
 5) Generate ssh key: `ssh-keygen -t rsa` (blank password)
+   > #TODO: add instructions for SSH tunneling in with ssh key (currently unused)
 6) Slight detour; to use `ssh` without knowing the server IP, we need to broadcast the hostname. `avahi-daemon` to the rescue! Install `avahi-daemon` on both SSH server and client (see instructions above) to broadcast hostnames. Check the server hostname with `host $HOSTNAME` (and, if needed, current user with `echo $USER`); this is the login info to use in the `ssh` command, with format `ssh [user]@[hostname]`
    > Note: If connecting to server via SSH from Windows, you'll need an SSH client, e.g. [PuTTy](http://www.chiark.greenend.org.uk/~sgtatham/putty/) or [MobaXterm](http://mobaxterm.mobatek.net/)
