@@ -14,6 +14,7 @@ A way to keep track of what's been done to set up various devices I've come in c
 | Reference Material |
 | --- |
 | [How to Set Up & Enable SSH on Ubuntu](https://www.maketecheasier.com/setup-enable-ssh-ubuntu/) |
+| [How to SSH and Stuff](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-in-ubuntu) |
 | [How to Zeroconf (`avahi-daemon` setup/troubleshooting)](https://help.ubuntu.com/community/HowToZeroconf) |
 
 ### Steps taken:
