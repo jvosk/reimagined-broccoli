@@ -14,6 +14,7 @@ A way to keep track of what's been done to set up various devices I've come in c
 | Reference Material |
 | --- |
 | [How to Set Up & Enable SSH on Ubuntu](https://www.maketecheasier.com/setup-enable-ssh-ubuntu/) |
+| [How to Zeroconf (`avahi-daemon` setup/troubleshooting)](https://help.ubuntu.com/community/HowToZeroconf) |
 
 ### Steps taken:
 1) Install Ubuntu Server v16.10 on hardware (make bootable USB with Startup Disk Creator, during install process use guided partitioning, install to 500GB drive less 4GB swap, `uname` and `pwd` are name of person who installed)
