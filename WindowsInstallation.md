@@ -1,38 +1,26 @@
-Installed programs:
+Installed programs
+--- | 
+[Game Companion](https://www.nexusmods.com/oblivion/mods/39550/)
+[Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming/releases)
+[MSI Afterburner](http://download.msi.com/uti_exe//vga/MSIAfterburnerSetup.zip)
+[MSI Kombustor 3](http://geeks3d.com/dl/get/571)
+[Corsair Effects Engine](https://www.corsair.com/us/en/downloads)
+[Artemis](https://github.com/SpoinkyNL/Artemis/releases)
+[f.lux](https://justgetflux.com/dlwin.html)
+[GIMP](https://www.gimp.org/downloads/)
+[VLC](https://www.videolan.org/vlc/)
+[7-Zip](https://www.7-zip.org/download.html)
+[Avira](https://www.avira.com/en/free-antivirus-windows)
+[AutoHotKey](https://www.autohotkey.com/download/)
+[Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+[RescueTime](https://www.rescuetime.com/download)
+[WinDirStat](https://windirstat.net/download.html)
+[Notepad++](https://notepad-plus-plus.org/download/)
+[LibreOffice](https://www.libreoffice.org/download/)
+[Opera](https://www.opera.com/computer/beta)
+[Steam](https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe)
+[qBittorrent](https://www.qbittorrent.org/download.php)
+[Play Music Desktop Client](https://www.googleplaymusicdesktopplayer.com/)
+[KMSPico](https://forums.mydigitallife.net/threads/kmspico-official-thread.65739/)
 
-Game Companion (for SART fullscreen)
-
-MSI Afterburner (overclocking for RX480)
-
-MSI Kombustor 3
-
-Corsair Effects Engine (keyboard RGB control)
-
-f.lux
-
-GIMP
-
-VLC
-
-7-Zip
-
-Avira
-
-AutoHotKey
-
-Java
-
-RescueTime
-
-WinDirStat
-
-Notepad++
-
-LibreOffice
-
-Firefox
-
-Steam
-
-Spotify
-
+[Try Ninite!](https://ninite.com/)
